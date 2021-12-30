@@ -7,3 +7,4 @@ class Config(Config):
     API_HASH = "d1c1c9262bbae8f5eeb80ba47c9f3dff"
     OWNER_ID = "1079261681"
     AUTH = [1079261681, -1001410465876]
+    EDIT_SLEEP_TIME = 02
